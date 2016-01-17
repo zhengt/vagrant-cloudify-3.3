@@ -1,0 +1,5 @@
+git/
+.vagrant/
+*.pyc
+.cache/
+cloudify-centos-Core-cli-*.rpm
